@@ -21,6 +21,3 @@ This project analyzes autism screening data to identify patterns across age, gen
 - Increase awareness in underrepresented regions  
 - Focus early screening on high-risk age groups  
 - Improve data collection for better accuracy
-  
-## Dashboard
-
